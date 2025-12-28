@@ -16,3 +16,21 @@
   19 rm .\testing.py
   20 git restore testing.py
   21 git status
+
+  22 history
+  23 git status
+  24 git status
+  25 git add .\testing.py
+  26 git commit -m "added test"
+  27 git add .\testing.py
+  28 git commit -m "added test"
+  29 git commit -m "added test1"
+  30 git add .\git_commands.txt
+  31 git commit -m "added git cmd"
+  32 git status
+  33 git push
+  34 git remote add origin https://github.com/prashantkumar02020-w... 
+  35 git remote -v
+  36 git remote set-url origin https://ghp_ioyNiov7bVGHYBLfzLNF8Zb... 
+  37 git remote -v
+  38 git push origin master
